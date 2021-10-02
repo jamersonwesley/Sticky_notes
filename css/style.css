@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topo{
+    width: 81.5rem;
+    height: 5rem;
+    background-color: #99ccff;
+}
+.conteudo{
+    height: 33.5rem;
+    background-color:aliceblue ;
+
+}
+.rodape{
+    width: 81.5rem;
+    height: 5rem;
+    background-color: #99ccff;
+}
